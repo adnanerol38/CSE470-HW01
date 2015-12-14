@@ -7,12 +7,19 @@ Program pyhton dilinde yazılmıştır. İlk olarak çalıştırılırken arguma
 arama yapılacak directory verilmelidir.
 
 Program:
+
 	1)Verilen directory içindeki dosyaları listeler
+	
 	2)Bu dosyaların isimlerini kaydeder
+	
 	3)Eğer dosya ise hash kodunu kaydeder
+	
 	4)Kaç tane dosya olduğunu hesaplar
+	
 	5)Dosya isimlerini ekrana basar
+	
 	6)Son olarak aynı hash koda sahip olanları ekrana hash kodları ile basar
+	
 	
 Çalıştırılması:
 
