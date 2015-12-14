@@ -15,5 +15,7 @@ Program:
 	6)Son olarak aynı hash koda sahip olanları ekrana hash kodları ile basar
 	
 Çalıştırılması:
+
 Terminalden bu komut satırını girerek çalıştırabilirsiniz
+
 	python HW01_101044059.py Resimler
